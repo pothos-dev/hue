@@ -1,0 +1,3 @@
+{
+    "onCreateCommand": "npm install --global expo-cli"
+}
